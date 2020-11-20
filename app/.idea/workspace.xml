@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="633e3137-41a1-4609-93d1-584b3b796e35" name="Default Changelist" comment="" />
+    <list default="true" id="633e3137-41a1-4609-93d1-584b3b796e35" name="Default Changelist" comment="updated v1.0">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/erp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/erp/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/erp/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/erp/tests.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,8 +34,12 @@
       </map>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="JupyterTrust" id="1ca302c6-ce5a-4243-91eb-29e2fd007f65" />
   <component name="ProjectId" id="1kUZQbxz8FWiNOtb1dcrEnKDXIt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -126,11 +143,25 @@
       <workItem from="1605757123525" duration="2098000" />
       <workItem from="1605759318016" duration="1633000" />
       <workItem from="1605799678525" duration="10091000" />
+      <workItem from="1605813120496" duration="289000" />
+      <workItem from="1605832024228" duration="1690000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="418" y="211" width="1084" height="710" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605809345554">
@@ -188,6 +219,10 @@
     </state>
     <state x="449" y="188" width="1022" height="737" key="SettingsEditor/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1605809221433" />
     <state x="2369" y="165" width="1022" height="737" key="SettingsEditor/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1605803063805" />
+    <state x="781" y="270" width="347" height="573" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1605813184067">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="781" y="270" width="347" height="573" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1605813184067" />
     <state x="2579" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1605804640524">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
