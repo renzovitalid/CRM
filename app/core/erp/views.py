@@ -1,9 +1,15 @@
 from django.shortcuts import render
-
-def myfirstview(request):
-    data={
-        'name':'William'
+from core.erp.models import Category, Product
+def myfirstview (request):
+    data = {
+        'name':'William',
+        'categories' : Category.objects.all()
     }
-
     return render(request,'index.html', data)
-# Create your views here.
+
+def mysecondview (request):
+    data = {
+        'name':'William',
+        'products' : Product.objects.all()
+    }
+    return render(request,'second.html', data)
